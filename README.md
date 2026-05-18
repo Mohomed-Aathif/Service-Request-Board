@@ -361,30 +361,3 @@ Potential future enhancements:
 * Image uploads
 * Notifications system
 * Real-time updates using WebSockets
-
----
-
-# Author
-
-## Mohomed Aathif
-
-Software Engineering Undergraduate
-Aspiring Full-Stack Developer
-
-GitHub:
-
-```txt
-https://github.com/your-github-username
-```
-
-LinkedIn:
-
-```txt
-https://linkedin.com/in/your-linkedin
-```
-
----
-
-# License
-
-This project was created for technical assessment purposes.
