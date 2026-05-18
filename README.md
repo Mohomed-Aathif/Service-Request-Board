@@ -2,8 +2,6 @@
 
 A modern full-stack web application where homeowners can post service requests and tradespeople can browse, manage, and update job statuses.
 
-Built as part of the Full-Stack Developer Intern Technical Assessment.
-
 ---
 
 
@@ -68,12 +66,6 @@ Built as part of the Full-Stack Developer Intern Technical Assessment.
 * Morgan
 * CORS
 * Dotenv
-
-## Deployment
-
-* Vercel (Frontend)
-* Render (Backend)
-* MongoDB Atlas (Database)
 
 ---
 
