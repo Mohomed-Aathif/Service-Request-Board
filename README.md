@@ -11,15 +11,15 @@ Built as part of the Full-Stack Developer Intern Technical Assessment.
 
 ## Home Page
 
-Add screenshot here.
+![Home Page](./screenshots/home-page.png)
 
 ## Create Job Page
 
-Add screenshot here.
+![Create Job Page](./screenshots/create-job-page.png)
 
 ## Job Detail Page
 
-Add screenshot here.
+![Job Detail Page](./screenshots/job-detail-page.png)
 
 ---
 
